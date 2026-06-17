@@ -38,13 +38,7 @@ Backup_Projects/
 │   ├── 18_Gym_Registration_Form/
 │   ├── 19_Employee_Information_Form/
 │   └── 20_Customer_Information_Form/
-│
-└── Advanced_Thinking/              ← Complex real-world forms with calculations
-    ├── 21_Swiggy_Order_Form/
-    ├── 22_Zomato_Customer_Profile/
-    ├── 23_Hotel_CheckIn_Form/
-    ├── 24_Flight_Booking_Form/
-    └── 25_Interview_Candidate_Form/
+
 ```
 
 ---
