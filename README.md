@@ -17,7 +17,6 @@ You'll learn Python by connecting programming concepts to everyday life.
 
 Every day includes:
 
-✅ Story-Based Learning
 ✅ Real-World Analogies
 ✅ Practical Coding Sessions
 ✅ Mini Projects
